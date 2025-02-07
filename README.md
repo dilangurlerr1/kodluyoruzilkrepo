@@ -22,7 +22,7 @@ Pull requeestler kabul edilir. Büyük değişiklikler için ,lütfen önce neyi
 ## License 
 [MIT]((https://choosealicense.com/licenses/mit/)
 
-
-![proje görseli](C:\Users\90530\OneDrive\Masaüstü\markdown.png)
+### proje görseli
+![](C:\Users\90530\OneDrive\Masaüstü\markdown.png)
 
 
