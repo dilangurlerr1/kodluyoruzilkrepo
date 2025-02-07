@@ -23,6 +23,6 @@ Pull requeestler kabul edilir. Büyük değişiklikler için ,lütfen önce neyi
 [MIT]((https://choosealicense.com/licenses/mit/)
 
 ### proje görseli
-![proje görseli](![alt text](image.png))
+![alt text](image.png)
 
 
